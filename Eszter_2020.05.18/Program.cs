@@ -71,7 +71,7 @@ namespace Eszter_2020._05._18
                     Console.WriteLine("A dolgozata jeles!");
                 }
             }
-            //
+            
             Console.ReadKey();
             
         }
